@@ -1,0 +1,136 @@
+
+/*BACKGROUND COLORS*/
+.bg-overlay::after,
+.benifits-item:after,
+.single-promo::after {
+    /* background-image: linear-gradient(to right, rgba(32, 40, 119, 0.97), rgba(55, 46, 149, 0.97), rgba(83, 49, 177, 0.96), rgba(114, 48, 205, 0.96), rgba(150, 41, 230, 0.97)); */
+    background-image: linear-gradient(to right, #0350a8 0%, #0062d1 38%, #00a99f 100%);
+}
+
+.section-heading > h2::after,
+.btn-purple,
+.app-screenshots.owl-carousel button.owl-dot.active,
+.testimonial-area .owl-carousel button.owl-dot.active,
+.subscribe-form button,
+.widget-items li a:hover::before,
+.widget-items li a:focus::before,
+.widget-items li a.active::before,
+.contact-us .social-icon,
+.contact-box button,
+.blockquote::after {
+    background-color: #0062d1;
+}
+
+.app-screenshots.owl-carousel button.owl-dot.active,
+.testimonial-area .owl-carousel button.owl-dot.active {
+    -webkit-box-shadow: 0 1px 5px #0062d1;
+    box-shadow: 0 1px 5px #0062d1;
+}
+
+.btn-purple {
+    border-color: #0062d1;
+}
+
+a:hover,
+a:focus,
+.play-icon,
+.service-icon > i,
+.widget-items li a.active,
+.comments-content > h5 > a:last-child {
+    color: #0062d1;
+}
+
+.text-primary,
+.single-team:hover .team-name {
+    color: #0062d1 !important;
+}
+
+/*Background Style 2*/
+.gradient-2 .bg-overlay::after,
+.gradient-2 .benifits-item:after,
+.gradient-2 .single-promo::after {
+    background-image: linear-gradient(45deg,#fe2983 0,#ff6f61 50%,#fc9e21 110%);
+}
+
+.gradient-2 .section-heading > h2::after,
+.gradient-2 .btn-purple,
+.gradient-2 .app-screenshots.owl-carousel button.owl-dot.active,
+.gradient-2 .testimonial-area .owl-carousel button.owl-dot.active,
+.gradient-2 .subscribe-form button,
+.gradient-2 .widget-items li a:hover::before,
+.gradient-2 .widget-items li a:focus::before,
+.gradient-2 .widget-items li a.active::before,
+.gradient-2 .contact-us .social-icon,
+.gradient-2 .contact-box button,
+.gradient-2 .blockquote::after {
+    background-color: #ff4c3b;
+}
+
+.gradient-2 .app-screenshots.owl-carousel button.owl-dot.active,
+.gradient-2 .testimonial-area .owl-carousel button.owl-dot.active {
+    -webkit-box-shadow: 0 1px 5px #ff4c3b;
+    box-shadow: 0 1px 5px #ff4c3b;
+}
+
+.gradient-2 .btn-purple {
+    border-color: #ff4c3b;
+}
+
+.gradient-2 a:hover,
+.gradient-2 a:focus,
+.gradient-2 .play-icon,
+.gradient-2 .service-icon > i,
+.gradient-2 .widget-items li a.active,
+.gradient-2 .comments-content > h5 > a:last-child {
+    color: #ff4c3b;
+}
+
+.gradient-2 .text-primary,
+.gradient-2 .single-team:hover .team-name {
+    color: #ff4c3b !important;
+}
+
+/*Background Style 3*/
+.gradient-3 .bg-overlay::after,
+.gradient-3 .benifits-item:after,
+.gradient-3 .single-promo::after {
+    background-image: linear-gradient(to right, #6541c1 0%, #d43396 98%, #d43396 100%);
+}
+
+.gradient-3 .section-heading > h2::after,
+.gradient-3 .btn-purple,
+.gradient-3 .app-screenshots.owl-carousel button.owl-dot.active,
+.gradient-3 .testimonial-area .owl-carousel button.owl-dot.active,
+.gradient-3 .subscribe-form button,
+.gradient-3 .widget-items li a:hover::before,
+.gradient-3 .widget-items li a:focus::before,
+.gradient-3 .widget-items li a.active::before,
+.gradient-3 .contact-us .social-icon,
+.gradient-3 .contact-box button,
+.gradient-3 .blockquote::after {
+    background-color: #d43396;
+}
+
+.gradient-3 .app-screenshots.owl-carousel button.owl-dot.active,
+.gradient-3 .testimonial-area .owl-carousel button.owl-dot.active {
+    -webkit-box-shadow: 0 1px 5px #d43396;
+    box-shadow: 0 1px 5px #d43396;
+}
+
+.gradient-3 .btn-purple {
+    border-color: #d43396;
+}
+
+.gradient-3 a:hover,
+.gradient-3 a:focus,
+.gradient-3 .play-icon,
+.gradient-3 .service-icon > i,
+.gradient-3 .widget-items li a.active,
+.gradient-3 .comments-content > h5 > a:last-child {
+    color: #d43396;
+}
+
+.gradient-3 .text-primary,
+.gradient-3 .single-team:hover .team-name {
+    color: #d43396 !important;
+}
